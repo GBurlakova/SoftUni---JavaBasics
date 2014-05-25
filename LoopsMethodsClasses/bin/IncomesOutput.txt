@@ -1,0 +1,7 @@
+Bourgas Total -> 336.00
+Pleven Total -> 5256.00
+Plovdiv Total -> 1051.20
+Sofia-Rakovski Total -> 1152.00
+Sofia-Vitosha Total -> 4872.00
+Varna-central Total -> 1044.00
+Grand Total -> 13711.20
